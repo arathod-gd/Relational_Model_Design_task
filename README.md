@@ -70,4 +70,5 @@ Not implemented yet:
 
 ## ER Diagram
 
-![img.png](img.png)
+
+<img width="1030" height="774" alt="Screenshot 2026-03-26 at 12 53 53 PM" src="https://github.com/user-attachments/assets/1d32628e-38a7-405a-8353-60e7d9513a07" />
