@@ -66,3 +66,8 @@ Not implemented yet:
 - parser implementation
 - JSON request generation
 - automated tests
+
+
+## ER Diagram
+
+![img.png](img.png)
