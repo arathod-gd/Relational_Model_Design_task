@@ -1,0 +1,6 @@
+target
+.idea
+.mvn
+.git
+.gitignore
+compose.yaml
